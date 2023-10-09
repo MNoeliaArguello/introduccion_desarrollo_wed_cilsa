@@ -1,8 +1,12 @@
 p{
     color: red;
+    background-color: azure;
+    text-align: center;
 }
 h1{
     color: brown;
+    background-color: azure;
+    text-align: center;
 }
 body{
     background-color: bisque;
